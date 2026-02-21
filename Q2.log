@@ -1,0 +1,2 @@
+2026-02-21 00:42:09,825 - INFO - Counting frequency of characters
+2026-02-21 00:42:09,825 - INFO - Frequency count calculated: {'a': 2, 'e': 1, 'i': 1, 'o': 1, 'u': 1}
